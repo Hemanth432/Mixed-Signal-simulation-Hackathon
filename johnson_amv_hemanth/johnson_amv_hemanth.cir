@@ -1,0 +1,30 @@
+* C:\Users\heman\eSim-Workspace\johnson_amv_hemanth\johnson_amv_hemanth.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 03/08/22 09:50:14
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+R1  Net-_R1-Pad1_ Net-_D1-Pad1_ 1k		
+R2  Net-_R1-Pad1_ Net-_C1-Pad2_ 68k		
+R3  Net-_R1-Pad1_ Net-_C2-Pad2_ 68k		
+R4  Net-_R1-Pad1_ Net-_D2-Pad1_ 1k		
+D1  Net-_D1-Pad1_ Net-_C1-Pad1_ eSim_LED		
+D2  Net-_D2-Pad1_ clk eSim_LED		
+C1  Net-_C1-Pad1_ Net-_C1-Pad2_ 22u		
+C2  clk Net-_C2-Pad2_ 22u		
+Q1  Net-_C1-Pad1_ Net-_C2-Pad2_ GND eSim_NPN		
+Q2  clk Net-_C1-Pad2_ GND eSim_NPN		
+v1  Net-_R1-Pad1_ GND 6.5		
+U2  clk plot_v1		
+U4  clk Net-_U4-Pad2_ Net-_U3-Pad1_ Net-_U3-Pad2_ adc_bridge_2		
+U3  Net-_U3-Pad1_ Net-_U3-Pad2_ Net-_U3-Pad3_ Net-_U3-Pad4_ Net-_U3-Pad5_ Net-_U3-Pad6_ johnson_counter		
+U5  Net-_U3-Pad3_ Net-_U3-Pad4_ Net-_U3-Pad5_ Net-_U3-Pad6_ out3 out2 out1 out0 dac_bridge_4		
+v2  Net-_U4-Pad2_ GND pulse		
+U9  out2 plot_v1		
+U6  out0 plot_v1		
+U8  out1 plot_v1		
+U7  out3 plot_v1		
+
+.end

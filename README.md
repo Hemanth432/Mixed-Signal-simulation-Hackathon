@@ -126,8 +126,7 @@ endmodule
 
 ```
 ## Makerchip Plots
-![image](https://user-images.githubusercontent.com/93421069/157199268-6b5596c4-7e77-48ba-9018-b4aaa701d4e9.jpg)
-
+![image](https://user-images.githubusercontent.com/93421069/157203919-81198120-0aa3-465b-b91a-b82deb184e08.jpg)
 ## Netlists
 ![image](https://user-images.githubusercontent.com/93421069/157199341-a6362b3e-6954-409c-83a6-121f35dd0b9f.jpg)
 ## NgSpice Plots

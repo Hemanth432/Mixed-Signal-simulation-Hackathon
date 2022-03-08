@@ -126,7 +126,7 @@ endmodule
 
 ```
 ## Makerchip Plots
-![image](https://user-images.githubusercontent.com/58599984/156443516-6fdc4420-0bab-40a8-84f4-515966e4f569.png)
+![image](https://user-images.githubusercontent.com/93421069/157199268-6b5596c4-7e77-48ba-9018-b4aaa701d4e9.jpg)
 
 ## Netlists
 ![image](https://user-images.githubusercontent.com/93421069/157199341-a6362b3e-6954-409c-83a6-121f35dd0b9f.jpg)

@@ -38,9 +38,9 @@ we implement the Johnson counter with
 the help of the Astable Multivibrator.
 
 ## Reference Circuit Diagram
-![image](https://user-images.githubusercontent.com/58599984/152688334-fa3ad04d-e142-4dd1-a0cf-00fd13ca2d9e.png)
+![image](https://user-images.githubusercontent.com/93421069/157207336-95d44d3f-1c05-490b-ae0d-7b1a8789ab79.jpg)
 ## Reference Waveform
-![image](https://user-images.githubusercontent.com/58599984/152688402-29877a15-deb3-4dee-9bcc-2313851182de.png)
+![image](https://user-images.githubusercontent.com/93421069/157208248-74939048-05c9-41a7-844a-62a3ba550d86.png)
 ## Circuit Details
 As shown in circuit diagram Figure 1, we
 have an astable multivibrator. It also

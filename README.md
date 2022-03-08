@@ -169,9 +169,9 @@ endmodule
 2. Clone this project using the following command:</br>
 ```git clone https://github.com/Hemanth432?tab=repositories ```</br>
 3. Change directory:</br>
-```cd eSim_project_files/xor_xnor```</br>
+```cd https://github.com/Hemanth432/Mixed-Signal-simulation-Hackathon ```</br>
 4. Run ngspice:</br>
-```ngspice xor_xnor.cir.out```</br>
+```ngspice johnson_amv_hemanth.cir.out```</br>
 5. To run the project in eSim:
 
   - Run eSim</br>
@@ -184,7 +184,6 @@ endmodule
 4. Sumanto Kar, eSim Team, FOSSEE
 
 ## References
-1. Ahmad, Nabihah & Hasan, Rezaul. (2011). A new design of XOR-XNOR gates for low power application. 10.1109/ICEDSA.2011.5959039. 
-2. K. Ravali, N. R. Vijay, S. Jaggavarapu and R. Sakthivel, "Low power XOR gate design and its applications," 2017 Fourth International Conference on Signal Processing, Communication and Networking (ICSCN), 2017, pp. 1-4, doi: 10.1109/ICSCN.2017.8085699.
-3. https://github.com/Eyantra698Sumanto/Two-in-One-Low-power-XOR-XNOR-Gate.git
+1. Website: "https://www.reddit.com/r/AskElectronics/comments/f7ubt4/astable_multivibrator_schmitt_trigger_johnson/" 
+
 

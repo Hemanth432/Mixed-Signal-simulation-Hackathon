@@ -59,12 +59,16 @@ multipurpose circuit.
 </br>
 ## Truth Table
 
-| Input A  | Input B | Output XOR  | Output XNOR |
-| ------------- | ------------- | ------------- | ------------- |
-| 0  | 0 | 0  | 1 |
-| 0  | 1 | 1| 0|
-| 1  | 0 |1|0|
-| 1 | 1 |0|1|
+| States | Qa | Qb | Qc | Qd|
+| ------------- | ------------- | ------------- | ------------- |------------|
+| 1 | 0 | 0  | 0 |0|
+| 2  | 1 | 0| 0|0|
+| 3  | 1 |1|0|0|
+| 4 | 1 |1|1|0|
+| 5 | 1|1|1|1|
+|6 |0|1|1|1|
+|7|0|0|1|1|
+|8|0|0|0|1|
 ## Software Used
 ### eSim
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD.

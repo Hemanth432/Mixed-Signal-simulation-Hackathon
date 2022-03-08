@@ -87,7 +87,8 @@ https://www.veripool.org/verilator/
 The following is the schematic in eSim:
 ![image](https://user-images.githubusercontent.com/93421069/157199306-16170f62-50a6-42df-a930-14f112a9167c.jpg)
 ## Verilog Code
-![image](https://user-images.githubusercontent.com/58599984/156445908-1af8255c-d17c-4275-8e24-ee65c96af66a.png)
+![image](https://user-images.githubusercontent.com/93421069/157201419-303a4949-bf9a-4f82-a192-06b1726ea696.jpg)
+)
 ## Makerchip
 ```
 \TLV_version 1d: tl-x.org
@@ -128,7 +129,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/58599984/156443516-6fdc4420-0bab-40a8-84f4-515966e4f569.png)
 
 ## Netlists
-![image](https://user-images.githubusercontent.com/58599984/156440985-0a983124-b5ad-4b60-b83f-7adf0e7c36fb.png)
+![image](https://user-images.githubusercontent.com/93421069/157199341-a6362b3e-6954-409c-83a6-121f35dd0b9f.jpg)
 ## NgSpice Plots
 ![image](https://user-images.githubusercontent.com/58599984/156440036-188911e0-9bb2-4d9f-b53d-878f5792d1c6.png)
 ![image](https://user-images.githubusercontent.com/58599984/156440082-c3f319ef-3224-4595-85e9-38bae135350f.png)

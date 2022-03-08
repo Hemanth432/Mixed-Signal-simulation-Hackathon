@@ -1,5 +1,5 @@
 # Mixed Signal Circuit Design and Simulation Marathon
-# XOR-XNOR-Gate
+# Johnson counter using astable Multivibrator
 - [Abstract](#abstract)
 - [Reference Circuit Diagram](#reference-circuit-diagram)
 - [Reference Waveform](#reference-waveform)
